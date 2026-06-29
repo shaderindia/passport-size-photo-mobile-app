@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Maker",
+  "description": "Create professional biometric passport-size photos with on-device AI background removal, custom cropping, and multi-photo printable layout sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
